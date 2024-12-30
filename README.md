@@ -1,7 +1,5 @@
 # project #
 
-**Please remember that Project 10 cannot be submitted late.**
-
 Remember the difference between a **class** and an **object**. The class is just a blueprint for making objects. For example, don't try to ask the Movie class for its title. It doesn't have a title of its own and it doesn't know anything about any Movie objects you may have created.
 
 First, write a class named **Movie** that has four data members: **title**, **genre**, **director**, and **year**. It should have:
